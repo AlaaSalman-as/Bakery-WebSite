@@ -1,0 +1,197 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.one{
+    background-image:url('photo-1556377600-fe0d98dfb2ea.webp');
+    background-repeat:none;
+    height:800px;
+    background-size:cover;
+}
+
+.one1{
+    background-color:rgba(5,5,5,.2);
+    height:150px;
+    font-size:38px;
+    color:white;
+}
+
+.one1 img{
+    height:100px;
+    width:250px;
+    margin-right:220px;
+    margin-left:20px;
+    margin-top:15px;
+}
+
+.one span{
+    margin-left:25px;
+}
+
+.one2{
+    text-align:center;
+    margin-top:100px;
+}
+
+.one2 h3,h1,h2{
+    padding-top:20px;
+}
+
+.one2 h1{
+    font-size:40px;
+}
+
+.one2 h2{
+    font-size:30px;
+}
+.one3{
+    margin-left:550px;
+    margin-top:80px;
+}
+.one3 .learnmore{
+    background-color:gray;
+    height:50px;
+    font-weight:100px;
+    color:black;
+    font-size:20px;
+}
+.one3 .contactus{
+    background-color:rgba(5,5,5,.2);
+    border-color:gray;
+    height:50px;
+    font-weight:100px;
+    color:white;
+    font-size:20px;
+
+}
+
+.two{
+    margin-top:150px;
+}
+
+.two1 img{
+    height:620px;
+    width:620px;
+    float:left;
+    margin-right:40px;
+}
+.two2 .two2-1 p{
+    font-size:27px;
+}
+.two2 .two2-1 h1{
+    font-size:50px;
+}
+
+.two2 .two2-2{
+    font-size:20px;
+}
+
+.three{
+    margin-top:150px;
+}
+.three1{
+    margin-left:30px;
+    float:left;
+    width:45%;
+}
+.three1 h1{
+    font-size:50px;
+}
+.three1 p{
+    font-size:27px;
+}
+.three2 img{
+    margin-right:10px;
+    height:520px;
+    width:700px;
+}
+
+
+.four{
+    background-color:wheat;
+    margin-top:150px;
+    height:800px;
+}
+.four1{
+    margin:20px;
+    text-align:center;
+}
+.four1 h1{
+    font-size:50px;
+}
+.four1 p{
+    font-size:20px;
+}
+.four2{
+    background-color:wheat;
+    margin-top:100px;
+}
+.four2 .four2-1{
+    width:30%;
+    float:left;
+    background-color:wheat;
+    margin-left:70px;
+    text-align: center;
+}
+.four2 .four2-2{
+    width:30%;
+    float:left;
+    background-color:wheat;
+    text-align: center;
+
+}
+.four2 .four2-3{
+    width:30%;
+    float:left;
+    background-color:wheat;
+    text-align: center;
+
+}
+.four2 .four2-1 img{
+    height:300px;
+    width:300px;
+}
+.four2 .four2-2 img{
+    height:300px;
+    width:300px;
+}
+.four2 .four2-3 img{
+    height:300px;
+    width:300px;
+}
+
+.five{
+    height:700px;
+    margin-top:150px;
+    margin-left:150px;
+}
+.five1{
+    width:40%;
+    float:left;
+}
+.five1 h1{
+    font-size:50px;
+}
+.five1 p{
+    font-size:20px;
+}
+.five2{
+    width:60%;
+    float:left;
+}
+
+
+.sex{
+    height:350px;
+    background-color:black;
+    color:white;
+}
+.sex div{
+    width:15%;
+    margin:50px;
+    float:left;
+}
+.sex .sex1{
+    padding-left:70px;
+}
